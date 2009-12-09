@@ -1,0 +1,15 @@
+Source: python-path
+Section: python
+Priority: optional
+Maintainer: Mikhail Gusarov <dottedmag@dottedmag.net>
+Build-Depends: debhelper (>= 7), python-dev (>= 2.3.5-11)
+Build-Depends-Indep: python-support (>= 0.90)
+Standards-Version: 3.8.3
+Homepage: http://pypi.python.org/pypi/path.py
+
+Package: python-path
+Architecture: all
+Depends: ${python:Depends}, ${misc:Depends}
+Description: pythonic path manipulation library
+ python-path provides pythonic API for manipulating file paths.
+

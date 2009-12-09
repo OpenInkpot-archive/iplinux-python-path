@@ -1,0 +1,16 @@
+Format-Specification:
+    http://wiki.debian.org/Proposals/CopyrightFormat?action=recall&rev=196
+Upstream-Maintainer: Jason Orendorff <jason at jorendorff com>
+Upstream-Source: http://code.google.com/p/py-amqplib/
+Upstream-Name: path.py
+
+Files: *
+Copyright: none
+License: Public domain
+
+Files: debian/*
+Copyright: 2009, Mikhail Gusarov <dottedmag@dottedmag.net>
+License: MIT
+
+License: MIT
+    BLAH BLAH
