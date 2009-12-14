@@ -1,5 +1,5 @@
 Source: python-path
-Section: python
+Section: host/tools
 Priority: optional
 Maintainer: Mikhail Gusarov <dottedmag@dottedmag.net>
 Build-Depends: debhelper (>= 7), python-dev (>= 2.3.5-11)
