@@ -1,3 +1,9 @@
+python-path (2.2+2.3-2) zelazny; urgency=low
+
+  * Add read_hexhash function
+
+ -- Mikhail Gusarov <dottedmag@dottedmag.net>  Tue, 15 Dec 2009 11:57:22 +0600
+
 python-path (2.2+2.3-1) zelazny; urgency=low
 
   * Initial release.
